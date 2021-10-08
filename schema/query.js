@@ -2,8 +2,6 @@ import { GraphQLObjectType, GraphQLID, GraphQLList } from "graphql";
 
 import Users from "../data/users";
 import Posts  from "../data/posts";
-// const Users = [];
-// const Posts = [];
 import userType  from "./types/user";
 import postType from "./types/post";
 
